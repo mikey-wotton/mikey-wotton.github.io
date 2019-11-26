@@ -1,0 +1,9 @@
+<div class="post-meta">
+  {% unless include.post.from %}
+  <span class="post-date">{{  include.post.date | date_to_string }}</span>
+  {% endunless %}
+  {% if include.post.from %}
+  <span class="post-date">{{ include.post.loc }}</span>
+  <span class="post-date">({{ include.post.from }} - {{ include.post.to }})</span>
+  {% endif %}
+</div>

@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<header>
+  <h1 class="post-title flex-container">
+  {% include post-catlink.html post=page %}
+  </h1>
+  <h2>
+  {{ page.title }}</h2>
+</header>
+<div class="content">
+  {% include post-meta.html post=page %}
+
+  <div class="post-body">
+    {{ content }}
+    {% include post-tags.html post=page %}
+  </div>
+<!--
+  {% include comments.html %}
+  {% include related_posts.html %}
+  -->
+  
+</div>

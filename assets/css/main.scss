@@ -1,0 +1,147 @@
+---
+# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
+# only main files contain this front matter, not partials.
+---
+
+
+.center{
+	text-align: center;
+}
+.tag-size1{
+	font-size: 1em;
+	font-weight: 350;
+}
+.tag-size2{
+	font-size: 1.1em;
+	font-weight: 350;
+}.tag-size3{
+	font-size: 1.2em;
+	font-weight: 400;	
+}.tag-size4{
+	font-size: 1.3em;
+	font-weight: 450;
+}.tag-size5{
+	font-size: 1.4em;
+	font-weight: 500;
+}.tag-size6{
+	font-size: 1.5em;
+	font-weight: 550;
+}
+.tag-size7{
+	font-size: 1.6em;
+	font-weight: 600;
+}
+.tag-size8{
+	font-size: 1.7em;
+	font-weight: 650;
+}
+.tag-size9{
+	font-size: 1.8em;
+	font-weight: 700;
+}
+.tag-size10{
+	font-size: 1.8em;
+	font-weight: 700;
+}
+.tag-size11{
+	font-size: 1.8em;
+	font-weight: 700;
+}
+.tag-size12{
+	font-size: 1.8em;
+	font-weight: 700;
+}
+.tag-size13{
+	font-size: 1.8em;
+	font-weight: 700;
+}
+
+svg.cloud {
+	height: 50%;
+	width: 50%;
+}
+path.cloud {
+	fill: white;
+	stroke: black;
+	stroke-width: 2;
+	stroke-linejoin: round;
+}
+path:hover {
+	fill: aliceblue;
+	stroke: lightskyblue;
+}
+
+.embed-responsive {
+	position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+
+iframe {
+	position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+a,
+a:link,
+a:visited,
+a:hover,
+a:active{
+	text-decoration: none !important;
+}
+.btn{
+	text-decoration: none;
+	background-image: linear-gradient(to bottom, #323232, #0e0e0e);
+	color: white;
+	letter-spacing: .5px;
+	padding: 10px;
+    border-radius: 15px;
+}
+
+.btn:hover{
+	-webkit-box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);
+	box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);
+}
+
+.z-depth-1{
+	-webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(24, 21, 21, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+}
+
+.z-depth-1-half {
+	-webkit-box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.14), 0 1px 7px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -1px rgba(0, 0, 0, 0.2);
+	box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.14), 0 1px 7px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -1px rgba(0, 0, 0, 0.2);
+}
+
+.z-depth-2 {
+	-webkit-box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3);
+	box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3);
+}
+
+.z-depth-3 {
+	-webkit-box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.3);
+	box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.3);
+}
+
+.z-depth-4{
+	-webkit-box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);
+	box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);
+}
+
+.z-depth-5 {
+	-webkit-box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.3);
+	box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.3);
+}
+
+.right{
+	float:right;
+}
+.left{
+	float:left;
+}
+
+@import "hydeout";
