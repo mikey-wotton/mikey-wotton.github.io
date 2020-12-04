@@ -1,0 +1,27 @@
+---
+layout: page
+---
+
+{% unless page.content == '' %}
+  {{ content }}
+{% endunless %}
+
+<ul class="posts-list">
+  {% assign category = page.category | default: page.title %}
+  {% for post in site.categories[category] %}
+    <li>
+      <h3>
+        <a href="{{ site.baseurl }}{{ post.url }}"><i class="material-icons">{{ post.icon }}</i>
+          {{ post.title }}
+          {% if post.from %}
+          <small>({{ post.from }} - {{ post.to }})</small>
+          {% endif %}
+          {% unless post.from %}
+          <small>{{ post.date | date_to_string }}</small>
+          {% endunless %}
+        </a>
+        <br>
+      </h3>
+    </li>
+  {% endfor %}
+</ul>
