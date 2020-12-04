@@ -3,7 +3,11 @@
 # only main files contain this front matter, not partials.
 ---
 
-
+.center-img{
+	  margin-left: auto;
+	  margin-right: auto;
+	  display: block;
+  }
 .center{
 	text-align: center;
 }
