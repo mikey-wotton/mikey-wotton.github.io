@@ -2,7 +2,7 @@
 layout: post
 title: Toolbox: Stardew Valley Guide Privacy Policy
 categories:
-  - policy
+  - Policy
 tags:
   - Toolbox
   - App
