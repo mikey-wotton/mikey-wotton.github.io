@@ -35,3 +35,5 @@ sidebar_home_link: false
 # to enable a separate blog link.
 github:
   repo: https://github.com/mikey-wotton/
+
+include: [".well-known"]
