@@ -7,8 +7,8 @@
         ],
         "components": [
           {
-            "/": "*",
-            "comment": "Matches any URL."
+            "/": "/sunhaven/app/*",
+            "comment": "Matches any URL which starts with path /sunhaven/app/."
           }
         ]
       }
