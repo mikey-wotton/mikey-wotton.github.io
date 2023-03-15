@@ -1,11 +1,20 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "VWUJ7VD2ZA.com.toolboxsunhaven",
-                "paths": ["*"]
-            }
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "VWUJ7VD2ZA.com.toolboxsunhaven"
+        ],
+        "components": [
+          {
+            "/": "*",
+            "comment": "Matches any URL."
+          }
         ]
-    }
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [ "VWUJ7VD2ZA.com.toolboxsunhaven" ]
+  }
 }
