@@ -7,7 +7,7 @@
 
     {% include sidebar.html %}
 
-    <main class="container">
+    <main class="container{% if page.url == '/sunhaven.html' %} sunhaven{% endif %}">
       {{ content }}
     </main>
 
