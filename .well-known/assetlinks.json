@@ -1,9 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.toolboxsunhaven",
-    "sha256_cert_fingerprints":
-    ["03:8E:FF:1C:76:74:CD:15:38:2D:9C:70:51:C6:1E:42:54:D0:87:DB:13:99:8B:2E:FC:E0:FA:EF:79:E5:FD:9D"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.toolboxsunhaven",
+      "sha256_cert_fingerprints": [
+        "03:8E:FF:1C:76:74:CD:15:38:2D:9C:70:51:C6:1E:42:54:D0:87:DB:13:99:8B:2E:FC:E0:FA:EF:79:E5:FD:9D",
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      ]
+    }
   }
-}]
+]
