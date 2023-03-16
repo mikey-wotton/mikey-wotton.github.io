@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.toolboxsunhaven",
-    "sha256_cert_fingerprints":
-    ["70:71:94:68:C6:20:1C:C3:1C:0C:5F:9C:EE:DE:20:5E:CF:88:90:13:B2:53:83:8A:B0:2D:A9:9D:60:E0:BC:35"]
-  }
-}]
