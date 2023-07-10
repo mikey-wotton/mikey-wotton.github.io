@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unofficial Sun Haven Guide
+title: Fan made Sun Haven Guide
 categories:
   - Support
 tags:
