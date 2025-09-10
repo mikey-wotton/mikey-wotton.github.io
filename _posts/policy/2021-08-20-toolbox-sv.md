@@ -50,8 +50,8 @@ You have the right to request deletion of data associated with your use of Fan M
 
 To request deletion:
 
-- You can use the **[Delete User Account]** button under **[Settings]** within the app.
-- Contact us at **[toolbox.app.dev@gmail.com]** with the subject line: *“Data Deletion Request – Fan Made SV Guide”*.
+- You can use the **Delete User Account** button under **Settings** within the app.
+- Contact us at **toolbox.app.dev@gmail.com** with the subject line: *“Data Deletion Request – Fan Made SV Guide”*.
 
 We will respond to all deletion requests within **30 days**.
 
@@ -78,8 +78,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 ## 9. Contact Us
 If you have any questions about this Privacy Policy or would like to request data deletion, please contact us at:
 
-**Email:** [toolbox.app.dev@gmail.com]  
-**App Name:** Fan Made SV Guide
+**Email:** toolbox.app.dev@gmail.com
 
 <div class="embed-responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G5Bz0RmBSw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
