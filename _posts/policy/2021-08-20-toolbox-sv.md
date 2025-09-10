@@ -8,9 +8,6 @@ tags:
   - App
   - Privacy Policy
 ---
-# Privacy Policy for Fan Made SV Guide
-
-**Effective Date:** January 1st, 2025
 
 Fan Made SV Guide (“we,” “our,” or “us”) respects your privacy. This Privacy Policy explains how we collect, use, and share information when you use our mobile application.
 
